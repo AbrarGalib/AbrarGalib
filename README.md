@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Abrar Galib - GitHub Banner" width="100%">
+</p>
 # 👋 Hi, I'm Abrar Galib
 
 ### 🎬 Professional Video Editor | 💻 Aspiring Full-Stack Developer | 🚀 JavaScript Enthusiast
